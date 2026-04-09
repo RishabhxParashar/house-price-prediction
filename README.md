@@ -15,8 +15,6 @@ LightGBM
 XGBoost
 Stacking Regressor for improved performance
 
-📊 Model Performance
-RMSE (Log Scale): 0.13 (example – replace with yours)
 🛠️ Tech Stack
 Python
 Scikit-learn
